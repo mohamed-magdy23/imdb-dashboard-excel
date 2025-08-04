@@ -3,8 +3,6 @@
 An interactive dashboard created in Microsoft Excel to explore the top 1000 movies on IMDB.  
 It includes KPIs, slicers, and visual charts for deeper insights.
 
-![Dashboard Preview](IMDB-Dashboard.PNG)
-
 ---
 
 ## 📊 Features:
@@ -23,7 +21,9 @@ It includes KPIs, slicers, and visual charts for deeper insights.
   - Top Genre by Gross
 
 ---
+![Dashboard Preview](IMDB-Dashboard.PNG)
 
+---
 ## 📁 Files Included:
 - `IMDB-Dashboard.xlsx` — The Excel dashboard with pivot tables and slicers.
 - `IMDB-Dashboard.PNG` — A preview image of the dashboard.
